@@ -8,3 +8,7 @@
 ## Step 7 loads the TensorBoard to visualize your log files. The following should be your output when running step 7 once training is done.
 
 ![alt text](https://github.com/DishaJr/Object-detection-tensorflow-api/blob/main/Screenshot%20from%202023-04-08%2000-28-55.png)
+
+## At step 8, change the following ( marked red ) to the name of the downloaded pret-trained model file-name.
+
+![alt text](https://github.com/DishaJr/Object-detection-tensorflow-api/blob/main/Screenshot%20from%202023-04-08%2000-32-03.png)
