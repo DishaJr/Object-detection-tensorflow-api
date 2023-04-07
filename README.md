@@ -12,3 +12,6 @@
 ## At step 8, change the following ( marked red ) to the name of the downloaded pret-trained model file-name.
 
 ![alt text](https://github.com/DishaJr/Object-detection-tensorflow-api/blob/main/Screenshot%20from%202023-04-08%2000-32-03.png)
+
+## At step 9, before exporting the model, change the following ( marked red ) to the name of the downloaded pret-trained model file-name.
+![alt text](https://github.com/DishaJr/Object-detection-tensorflow-api/blob/main/Screenshot%20from%202023-04-08%2000-36-26.png)
