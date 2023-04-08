@@ -4,8 +4,11 @@
 ## At step 6 do the following changes to the config file.
 
 ![alt text](https://github.com/DishaJr/Object-detection-tensorflow-api/blob/main/Screenshot%20from%202023-04-08%2000-16-26.png)
+
 ![alt text](https://github.com/DishaJr/Object-detection-tensorflow-api/blob/main/Screenshot_6.png)
+
 ![alt text](https://github.com/DishaJr/Object-detection-tensorflow-api/blob/main/Screenshot_5.png)
+
 ![alt text](https://github.com/DishaJr/Object-detection-tensorflow-api/blob/main/Screenshot_2.png)
 
 ## Step 7 loads the TensorBoard to visualize your log files. The following should be your output when running step 7 once training is done.
